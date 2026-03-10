@@ -1,2 +1,5 @@
-# Financial-AI-Agent
-A simple AI financial agent that uses Groq LLM and yfinance tools to fetch real-time stock data and summarize analyst recommendations.
+conda create -n demo python=3.12 -y
+
+conda activate demo
+
+pip install -r requirements.txt
